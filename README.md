@@ -1,3 +1,8 @@
+## Purpose 
+```
+Script to get the list of aws groups associated with IAM users.
+
+```
 ## Installation
 
 It is a linux shell script and you need to install & configure aws-cli (please refer aws-cli doc to configure aws-cli)
